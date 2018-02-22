@@ -1,0 +1,325 @@
+map_list = {
+	{ name = "Все локации", list = {
+			{ name = "Все локации" }
+		}, ignore_recruit_window = true },
+	{
+		name = "Пронтера",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Канализация - 1" },
+			{ name = "Канализация - 2" },
+			{ name = "Канализация - 3" },
+			{ name = "Канализация - 4", colorR = 255, colorG = 0, colorB = 0 },
+			{ name = "Лес-Лабиринт - 1" },
+			{ name = "Лес-Лабиринт - 2" },
+			{ name = "Лес-Лабиринт - 3", colorR = 255, colorG = 0, colorB = 0 }
+		}
+	},
+	{
+		name = "Геффен",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Подземелье Геффена - 1" },
+			{ name = "Подземелье Геффена - 2", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Подземелье Геффена - 3", colorR= 255, colorG = 0, colorB = 0},
+			{ name = "Геффения" },
+			{ name = "Деревня орков", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Геффен, Подземелье орков, 1-й уровень" },
+			{ name = "Геффен, Подземелье орков, 2-й уровень"}
+		}
+	},
+	{
+		name = "Пайон",
+		list = {
+			{ name = "Окрестности", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Пещера Пайона - 1" },
+			{ name = "Пещера Пайона - 2" },
+			{ name = "Пещера Пайона - 3" },
+			{ name = "Пещера Пайона - 4" },
+			{ name = "Пещера Пайона - 5", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Альдебаран",
+		list = {
+			{ name = "Горная гряда Мъельнир Север", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Горная гряда Мъельнир Юг" },
+			{ name = "Угольная шахта - 1" },
+			{ name = "Угольная шахта - 2" },
+			{ name = "Угольная шахта - 3" },
+			{ name = "Часовая башня, этаж - 1" },
+			{ name = "Часовая башня, этаж - 2" },
+			{ name = "Часовая башня, этаж - 3" },
+			{ name = "Часовая башня, этаж - 4" },
+			{ name = "Часовая башня, подземелье - 1" },
+			{ name = "Часовая башня, подземелье - 2" },
+			{ name = "Часовая башня, подземелье - 3" },
+			{ name = "Часовая башня, подземелье - 4"}
+		}
+	},
+	{
+		name = "Альберта",
+		list = {
+			{ name = "Затонувший корабль - 1" },
+			{ name = "Затонувший корабль - 2", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Черепаший остров" },
+			{ name = "Черепаший остров, подземелье - 1" },
+			{ name = "Черепаший остров, подземелье - 2" },
+			{ name = "Черепаший остров, подземелье - 3", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Моррок",
+		list = {
+			{ name = "Пустыня сограт", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Окрестности", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Муравейник - 1" },
+			{ name = "Муравейник - 2", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Сфинкс - 1" },
+			{ name = "Сфинкс - 2" },
+			{ name = "Сфинкс - 3" },
+			{ name = "Сфинкс - 4" },
+			{ name = "Сфинкс - 5", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Пирамида, этаж - 1" },
+			{ name = "Пирамида, этаж - 2" },
+			{ name = "Пирамида, этаж - 3" },
+			{ name = "Пирамида, этаж - 4", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Пирамида, подземелье - 1" },
+			{ name = "Пирамида, подземелье - 2", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Излюд",
+		list = {
+			{ name = "Остров Байлан - 1" },
+			{ name = "Остров Байлан - 2" },
+			{ name = "Остров Байлан - 3" },
+			{ name = "Остров Байлан - 4" },
+			{ name = "Остров Байлан - 5"}
+		}
+	},
+	{
+		name = "Комодо",
+		list = {
+			{ name = "Лес Папучико" },
+			{ name = "Пляж Кокомо" },
+			{ name = "Болота Зинаи" },
+			{ name = "Маяк Фарос" },
+			{ name = "Крепость Сандурман (Восток)" },
+			{ name = "Крепость Сандурман (Юг)" },
+			{ name = "Крепость Сандурман (Запад)" },
+			{ name = "Западная пещера Комодо", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Северная пещера Комодо" },
+			{ name = "Восточная пещера Комодо"}
+		}
+	},
+	{
+		name = "Люти",
+		list = {
+			{ name = "Окрестности", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Игрушечная фабрика" }
+		}
+	},
+	{
+		name = "Юно",
+		list = {
+			{ name = "Пограничный пост" },
+			{ name = "Особняк Киель Кайра" },
+			{ name = "Плато Эльмес" },
+			{ name = "Академия Киель Кайра" },
+			{ name = "Сторожевой лагерь" },
+			{ name = "Окрестности" },
+			{ name = "Муспельхейм - 1" },
+			{ name = "Муспельхейм - 2" },
+			{ name = "Руины Юперос" },
+			{ name = "Фабрика роботов - 1" },
+			{ name = "Фабрика роботов - 2", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Умбала",
+		list = {
+			{ name = "Лес Лулука" },
+			{ name = "Болота Калала" },
+			{ name = "Лес Хумга" },
+			{ name = "Джунгли Хумга"}
+		}
+	},
+	{
+		name = "Эйнбех",
+		list = {
+			{ name = "Старый рудник - 1" },
+			{ name = "Старый рудник - 2", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Лайтхайзен",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Соматологическая лаборатория - 1" },
+			{ name = "Соматологическая лаборатория - 2", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Соматологическая лаборатория - 3", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Башня Танатос",
+		list = {
+			{ name = "Этаж - 1" }, --need translator please :)
+			{ name = "Этаж - 2" },
+			{ name = "Этаж - 3" },
+			{ name = "Этаж - 4" },
+			{ name = "Этаж - 5" },
+			{ name = "Этаж - 6" },
+			{ name = "Этаж - 7" },
+			{ name = "Этаж - 8" },
+			{ name = "Этаж - 9" },
+			{ name = "Этаж - 10", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Гластхейм",
+		list = {
+			{ name = "Гластхейм - 1" },
+			{ name = "Гластхейм - 2" },
+			{ name = "Монастырь Гластхейма" },
+			{ name = "Подземелье Гластхейма - 1" }, --The Lowest Cave in Glast Heim F1[English official server]
+			{ name = "Подземелье Гластхейма - 2" }, --The Lowest Cave in Glast Heim F2[English official server]
+			{ name = "Казармы Гластхейма - 1" },
+			{ name = "Казармы Гластхейма - 2" },
+			{ name = "Подземная тюрьма - 1" },
+			{ name = "Подземная тюрьма - 2" },
+			{ name = "Канализация - 1" },
+			{ name = "Канализация - 2" },
+			{ name = "Канализация - 3" },
+			{ name = "Канализация - 4" }
+		}
+	},
+	{
+		name = "Хугель",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Храм Одина, Западная часть" },
+			{ name = "Храм Одина, Южная часть" },
+			{ name = "Храм Одина, Северная часть", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Бездонное озеро" },
+			{ name = "Бездонное озеро - 1" },
+			{ name = "Бездонное озеро - 2" },
+			{ name = "Бездонное озеро - 3", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Рашель",
+		list = {
+			{ name = "Луга Аудумлы" },
+			{ name = "Равнина Идун", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Врата Луны", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Святые земли - 1" }, --Freya's Sacred Precinct F1
+			{ name = "Святые земли - 2" }, --Freya's Sacred Precinct F2
+			{ name = "Святые земли - 3" }, --Freya's Sacred Precinct F3
+			{ name = "Святые земли - 4" }, --Freya's Sacred Precinct F4
+			{ name = "Святые земли - 5", colorR = 255, colorG = 0, colorB = 0}, --Freya's Sacred Precinct F5
+			{ name = "Ледяная пещера - 1" },
+			{ name = "Ледяная пещера - 2" },
+			{ name = "Ледяная пещера - 3"}
+		}
+	},
+	{
+		name = "Вейнс",
+		list = {
+			{ name = "Окрестности", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Безымянный остров" },
+			{ name = "Проклятый монастырь - 1" },
+			{ name = "Проклятый монастырь - 2", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Проклятый монастырь - 3", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Вулкан Тора - 1" },
+			{ name = "Вулкан Тора - 2" },
+			{ name = "Вулкан Тора - 3", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Нифльхейм",
+		list = {
+			{ name = "Деревня скелетов" },
+			{ name = "Призрачный кратер" },
+			{ name = "Нифльхейм", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Новый Мир",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Предгорье Камидаль" }, --El Descates Field Foot Of The Kamidal Mountain
+			{ name = "Тоннель Камидаль" }, --Underground Passage Kamidal Tunnel
+			{ name = "Тоннель Скараба", colorR = 255, colorG = 0, colorB = 0}, --Underground Nest Scaraba Hole
+			{ name = "Подземелье Нидхог - 1" },
+			{ name = "Подземелье Нидхог - 2"}
+		}
+	},
+	{
+		name = "Аматсу",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Лабиринт татами" },
+			{ name = "Подземный лес" },
+			{ name = "Пещера", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Кунлун",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Святилище Си Ван Му" },
+			{ name = "Доска для игры в го" },
+			{ name = "Аркадия", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Лоянг",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Королевская гробница - 1" },
+			{ name = "Королевская гробница - 2" },
+			{ name = "Дворец Шэнь Ян", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Айотайя",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Древний лабиринт" },
+			{ name = "Храм", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Бразилия",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Водопад" },  --Brasilia's Dungeon F1
+			{ name = "Пещера", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Московия",
+		list = {
+			{ name = "Окрестности" },
+			{ name = "Лес" },
+			{ name = "Тёмный лес" },
+			{ name = "Дремучий лес", colorR = 255, colorG = 0, colorB = 0}
+		}
+	},
+	{
+		name = "Мемориал",
+		list = {
+			{ name = "Бесконечная башня", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Запечатанный храм", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Воспоминания орков", colorR = 255, colorG = 0, colorB = 0},
+			{ name = "Логово Нихог", colorR = 255, colorG = 0, colorB = 0}
+		}
+	}
+}
+PartyBookingHelp = {
+	MsgStrID.MSI_PARTY_BOOKING_REQURT,
+	MsgStrID.MSI_PARTY_BOOKING_LIST,
+	MsgStrID.MSI_PARTY_BOOKING_MAKE,
+	MsgStrID.MSI_PARTY_BOOKING_INVITE
+}

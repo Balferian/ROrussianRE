@@ -1,0 +1,106 @@
+LOCAL_playro_List = {
+	{
+		name = [[Фармацевт]],
+		imagefile = [[make_potions.bmp]],
+		list = {
+			{
+				name  =	[[Красное зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999000,
+					}
+				}
+			},
+			{
+				name  =	[[Оранжевое зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999001,
+					}
+				}
+			},
+			{
+				name  =	[[Жёлтое зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999002,
+					}
+				}
+			},
+			{
+				name  =	[[Белое зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999003,
+					}
+				}
+			},
+			{
+				name  =	[[Зелёное зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999004,
+					}
+				}
+			},
+			{
+				name  =	[[Синее зелье ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 999005,
+					}
+				}
+			},
+		}
+	},
+	{
+		name = [[Головные уборы]],
+		imagefile = [[make_headgears.bmp]],
+		list = {
+			{
+				name  =	[[Маска будильника ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 998000,
+					}
+				}
+			},
+			{
+				name  =	[[Полоска цензуры ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 998001,
+					}
+				}
+			},
+			{
+				name  =	[[Оленьи рога ]],
+				list = {
+					{
+						name =[[Описание]],
+						scrfilename = [[playro]],
+						questID = 998002,
+					}
+				}
+			},
+		}
+	}
+}
+
+_G.QuestTable.add(LOCAL_playro_List, "RECOMMENDED")

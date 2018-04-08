@@ -3478,7 +3478,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_PARTYFLEE] = {
 		"ALL_PARTYFLEE",
-		SkillName = "Blowing Wind !!",
+		SkillName = "Порыв весеннего ветра",
 		MaxLv = 10,
 		SpAmount = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		bSeperateLv = false,
